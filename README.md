@@ -1,5 +1,4 @@
-### Hi there 👋 Welecom my homePage
-
+### 🥰Hi there 👋 Welecom my homePage
 
 - 🌱 I’m currently learning Java or JavaScript
 - 📫 How to reach me: tyliu.work@foxmail.com
